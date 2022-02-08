@@ -3,12 +3,8 @@
 ## About me 🧒🏾
 - 👋 Hi, I’m @aon aka Agustin Aon.
 - 🌊 I live in Mar del Plata, Argentina, one of the most beautiful cities in the world.
-- ✍🏾 I am an Electronics Engineer with a passion for tech.
+- ✍🏾 I am an Electronics Engineer, self-taught programmer with a passion for tech.
 - 👀 I’m interested in becoming a Full Stack Developer. I'd love help build the new web 3.0 too. I'm learning how to make smart contracts as well!
-
-## Where I study 📖
-- I got my engineering degree on 2021. I discovered in school how much I loved programming and haven't stopped since!
-- I'm a self-taught programmer, having done many Udemy courses and watched plenty of youtube videos.
 
 ## Skills
 ### Python 🐍
