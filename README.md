@@ -1,6 +1,6 @@
 # Who is Aon?
 
-## About me 🧒🏾
+## About me
 - 👋 Hi, I’m @aon aka Agustin Aon.
 - 🌊 I live in Mar del Plata, Argentina, one of the most beautiful cities in the world.
 - ✍🏾 I am an Electronics Engineer, self-taught programmer with a passion for tech.
