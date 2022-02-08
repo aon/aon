@@ -16,7 +16,7 @@ I learned C/C++ programming microcontrollers in college. I love how you can inte
 ### JavaScript/React 🌐
 I'm currently learning React from a very comprehensive course on Udemy. In this repository you'll see some of the projects I've developed.
 
-### Solidity 🪙
+### Solidity 🗃
 I'm currently learning Solidity and building projects from it. You'll find some of them in this repo. Fascinating language with its own set of limitations and challenges.
 
 ### Verilog/SystemVerilog ⚙️
