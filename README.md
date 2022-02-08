@@ -28,7 +28,7 @@ Learned Git a couple of years ago and can't go back. I track every project I cre
 ### Latex 📜
 Amazing tool for building beautiful and professional documents. Almost uninstalled MS Word. Almost.
 
-## Contact
+# Contact
 - 📫 You can reach me in agustin.aon.s@gmail.com
 - 📆 Want to meet? Pick a slot and let's chat about anything you are trying to build [here](https://calendly.com/agustin-aon/30min)
 - 🔗 My Linked In profile is [here](https://www.linkedin.com/in/agustin-aon-8b444b88/)
