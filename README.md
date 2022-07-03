@@ -4,13 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aon&label=Profile%20views&color=0e75b6&style=flat" alt="aon" /> </p>
 
 - 🔭 I’m currently working on **building a portfolio website**
-
 - 🌱 I’m currently learning **Go and Next.js**
-
 - 💬 Ask me about anything related to Blockchain or Web3
-
 - 📫 How to reach me: **agustin.aon.s@gmail.com**
-
 - 📄 Know about my experiences: [CV](https://github.com/aon/cv/raw/5fd9c5eb76f08e7ab39282e475c24aa7faabfabc/bin/CV%20-%20Agustin%20Aon.pdf)
 
 🔗 &nbsp;**Connect with me**
