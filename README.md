@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustin Aon</h1>
-<h3 align="center">A passionate full-stack blockchain developer from Argentina</h3>
+<h3 align="center">A passionate backend developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aon&label=Profile%20views&color=0e75b6&style=flat" alt="aon" /> </p>
 
@@ -18,14 +18,12 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-  I am a Full Stack Blockchain Developer with 1+ years of experience with an Electronics Engineering degree.
+  I am a Backend Developer with 2+ years of experience with an Electronics Engineering degree.
 
   ### My story
   I live in **Mar del Plata, Argentina**, one of the most beautiful cities in the world. I became interested in programming while building my engineering final project... and then I didn't stop.
 
-  Most of my leisure time is spent trying to learn new tech, watching cool YouTube videos and trying to make new projects. My main focus right now: **helping build the next Web 3.0**
-
-  I'm currently in the process of creating my website to showcase my personal projects.
+  Most of my leisure time is spent trying to learn new tech, watching cool YouTube videos and trying to make new projects.
 </details>
 
 <details>
