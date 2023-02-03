@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustin Aon</h1>
-<h3 align="center">A passionate backend developer from Argentina</h3>
+<h3 align="center">A passionate Backend Developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aon&label=Profile%20views&color=0e75b6&style=flat" alt="aon" /> </p>
 
