@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aon&label=Profile%20views&color=0e75b6&style=flat" alt="aon" /> </p>
 
 - 📫 How to reach me: **agustin.aon.s@gmail.com**
-- 📄 Know about my experiences: [CV](https://github.com/aon/cv/raw/5fd9c5eb76f08e7ab39282e475c24aa7faabfabc/bin/CV%20-%20Agustin%20Aon.pdf)
 
 🔗 &nbsp;**Connect with me**
 
@@ -18,7 +17,7 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-  I am a Backend Developer with 2+ years of experience with an Electronics Engineering degree.
+  I am a Full Stack Developer with 4+ years of experience with an Electronics Engineering degree.
 
   ### My story
   I live in **Mar del Plata, Argentina**, one of the most beautiful cities in the world. I became interested in programming while building my engineering final project... and then I didn't stop.
